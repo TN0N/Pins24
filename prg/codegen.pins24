@@ -1,0 +1,3 @@
+fun main()=putint(1)
+
+fun putint(intvalue)

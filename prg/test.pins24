@@ -1,0 +1,4 @@
+fun fibrec(n)=
+	let var i = 0
+	in 3,2
+	end
